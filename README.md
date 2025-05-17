@@ -16,8 +16,3 @@ This repository contains my coursework submissions for the **"Generative Artific
 - This repository is **a work in progress** and may continue to be updated.
 - Everyone is **welcome to explore, use, or modify** the code for learning and educational purposes.
 - Some parts of the code are adapted from **teaching assistants** and **open-source resources**.
-
-## ⭐ Contributions
-
-If you find this helpful, feel free to star ⭐ or fork 🍴 the repository.  
-Suggestions, issues, or pull requests are always welcome!
