@@ -4,12 +4,12 @@ This repository contains my coursework submissions for the **"Generative Artific
 
 ## 📝 Contents
 
-- `hw1_clustering_classification_association_rules/`
-- `hw2_cnn/`
-- `hw3_gan/`
-- `hw4_llm/`
-- `hw5_llm+RAG/`
-- `final_project/`
+- [🧠 HW1 - Clustering, Classification, and Association Rules](./hw1_clustering_classification_association_rules/README.md)
+- [🧪 HW2 - CNN for Image Classification](./hw2_cnn/README.md)
+- [🧬 HW3 - Text Data Augmentation with GAN](./hw3_gan/README.md)
+- [💡 HW4 - LLM Fine-Tuning for Churn Prediction](./hw4_llm/README.md)
+- [🔎 HW5 - LLM + RAG (Web, PDF, and Dataset QA)](./hw5_llm+RAG/README.md)
+- [🎯 Final Project - Object Detection with YOLO]
 
 ## 🎞️ Final Project-Object Detecting
 Source:https://github.com/achen353/Taiwanese-Traffic-Object-Detection/blob/master/README.md
