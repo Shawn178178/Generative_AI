@@ -2,14 +2,14 @@
 
 This repository contains my coursework submissions for the **"Generative Artificial Intelligence"** class. It includes **5 homework assignments** and **1 final project**, covering core topics in generative AI such as clustering, association rules, CNNs, GANs, and LLMs.
 
-## 📝 Contents
+## 🗂️ Contents
 
-- [🧠 HW1 - Clustering, Classification, and Association Rules](./hw1_clustering_classification_association_rules/README.md)
-- [🧪 HW2 - CNN for Image Classification](./hw2_cnn/README.md)
-- [🧬 HW3 - Text Data Augmentation with GAN](./hw3_gan/README.md)
-- [💡 HW4 - LLM Fine-Tuning for Churn Prediction](./hw4_llm/README.md)
-- [🔎 HW5 - LLM + RAG (Web, PDF, and Dataset QA)](./hw5_llm+RAG/README.md)
-- [🎯 Final Project - Object Detection with YOLO]
+- HW1 - Clustering, Classification, and Association Rules  
+- HW2 - CNN for Image Classification  
+- HW3 - Text Data Augmentation with GAN  
+- HW4 - LLM Fine-Tuning for Churn Prediction  
+- HW5 - LLM + RAG (Web, PDF, and Dataset QA)  
+- Final Project - Object Detection with YOLO  
 
 ## 🎞️ Final Project - Object Detection
 
