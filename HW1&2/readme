@@ -1,0 +1,58 @@
+# Generative Artificial Intelligence - Coursework
+
+This repository contains coursework for the "Generative Artificial Intelligence" class at NCKUES, completed by 洪向霖 (Student ID: n96131281). It includes two assignments related to data mining and deep learning.
+
+> 🔹 All source code and notebooks are located in this directory.
+
+---
+
+## 📘 HW1 - Data Mining: Association, Clustering, and Classification
+
+### Topics Covered
+
+#### 🧩 Association Rule Mining
+- **Tools**: Weka and Python
+- **Techniques**: Apriori algorithm
+- **Metrics Used**: Support, Confidence, Lift
+- **Datasets**: Supermarket (Weka), Red Wine Quality (Python)
+- **Insights**: Found interesting relationships among features (e.g., acidity and citric acid).
+
+#### 🔍 Clustering
+- **Methods**: K-Means, Hierarchical Clustering
+- **Tools**: Python and Weka
+- **Applications**: Feature-based cluster visualization and evaluation.
+
+#### 🌲 Classification
+- **Algorithms**: ID3 (Python), J48 (Weka), Random Forest
+- **Observations**: Weka often had higher accuracy; Python offered feature importance metrics.
+
+---
+
+## 📗 HW2 - CIFAR-10 Image Classification with Deep Learning
+
+### Dataset
+- **Source**: CIFAR-10 (via Kaggle and Keras)
+- **Preprocessing**: Used `py7zr` for decompression and also tested with Keras built-in dataset.
+
+### Models Compared
+1. **Model 1**: Simple CNN
+2. **Model 2**: Deeper CNN with Dropout
+3. **Model 3**: VGG16
+
+### Training Details
+- **Loss Function**: Categorical Crossentropy
+- **Optimizer**: Adam
+- **Batch Size**: 32
+- **Epochs**: 10 & 20
+- **Learning Rate**: 0.001 & 0.01
+
+### Findings
+- Model 2 had better performance and convergence.
+- VGG16 did not outperform custom CNNs significantly on CIFAR-10.
+
+---
+
+## 🧾 Author
+**Student ID**: n96131281  
+**Institution**: NCKUES  
+**Course**: Generative Artificial Intelligence
