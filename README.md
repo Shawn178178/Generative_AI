@@ -11,10 +11,13 @@ This repository contains my coursework submissions for the **"Generative Artific
 - [🔎 HW5 - LLM + RAG (Web, PDF, and Dataset QA)](./hw5_llm+RAG/README.md)
 - [🎯 Final Project - Object Detection with YOLO]
 
-## 🎞️ Final Project-Object Detecting
-Source:https://github.com/achen353/Taiwanese-Traffic-Object-Detection/blob/master/README.md
+## 🎞️ Final Project - Object Detection
 
-Here is a short video demonstration of the object detection system:
+Based on our own retraining process and dataset, inspired by:  
+[achen353/Taiwanese-Traffic-Object-Detection](https://github.com/achen353/Taiwanese-Traffic-Object-Detection)
+
+> The structure and major steps are largely based on the reference repository.  
+> We learned a lot from their setup and adapted it to train our own models using custom data.
 
 ![Detection Demo](./bike_demo.gif)
 
