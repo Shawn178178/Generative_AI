@@ -11,11 +11,14 @@ This repository contains my coursework submissions for the **"Generative Artific
 - `hw5_llm+RAG/`
 - `final_project/`
 
-## 🖼️ Static Detection Result
+## 📸 YOLO Model Comparison
 
-This image shows bounding boxes and labels detected from a real-world scene:
+This image shows bounding boxes and labels detected from a real-world scene using two models:
 
-![Detection Result](./Yolo_Yolotiny.png)
+### YOLO v4 (Left) vs YOLO Tiny v4 (Right)
+
+<img src="./yolo_comparison.png" alt="YOLO Comparison" width="600"/>
+
 
 ## 📌 Notes
 
